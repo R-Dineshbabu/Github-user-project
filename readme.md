@@ -1,1 +1,1 @@
-This is about fetch the user detail sfrom the github server
+This is about fetch the user details from the github server
