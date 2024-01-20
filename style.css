@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:gray;
+    color: aqua;
+}
+input{
+    margin: 12px 20px;
+    padding: 5px 10px;
+    background-color: black;
+    color: azure;
+    border-radius: 15px;
+   font-size: larger;
+   border: 2px solid azure;
+
+}
+button{
+    margin :12px auto;
+    padding:5px 12px;
+    font-size: medium;
+    border-radius:15px;
+    background-color: black;
+    color: aqua;
+    border: 2px solid azure;
+    
+}
+a{
+    text-decoration: none;
+    color: aqua;
+}
+i{
+    color:blanchedalmond;
+    padding: 5px 5px;
+}
+.card-img,img{
+    margin: 10px auto;
+    width: 200px;
+    border-radius: 50%;
+}
+.container{
+    width: 100vw;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+}
+
+.main{
+    text-align: center;
+    padding: 35px ;
+}
+h1{
+    padding: 10px 10px;
+    color:crimson;
+}
+.card{
+    background-color: #202124;
+    width:25rem;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding:10px;
+    margin:25px;
+}
+
+
+#abc{
+    font-size:x-large ;
+    font-weight: bold;
+}
+.card-subheading{
+    font-size: medium;
+    color: rgb(87,87,87);
+}
+#repoInfo{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    margin: 30px;
+ 
+}
+
+#cde{
+    border: 2px solid red;
+    border-radius: 5%;
+}
